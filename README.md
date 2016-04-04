@@ -1,3 +1,3 @@
 # OSX-Commands-Cheat-Sheet
 OSX Cheat Sheet
-<kbd>CTRL</kbd>+<kbd>Z</kbd>
+<kbd>⌘</kbd>+<kbd>Z</kbd>
