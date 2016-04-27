@@ -13,3 +13,5 @@ OSX Cheat Sheet
 
 click Desktop + <kbd>⌘</kbd>+<kbd>option</kbd>+<kbd>h</kbd> Show Desktop (hide all other apps but the Finder)
 
+OSX Screen Shot Cheats
+<kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>control</kbd><kbd>4</kbd> Capture Screenshot to Clipboard
