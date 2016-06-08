@@ -16,4 +16,5 @@ click Desktop + <kbd>⌘</kbd>+<kbd>option</kbd>+<kbd>h</kbd> Show Desktop (hide
 OSX Screen Shot Cheats
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>control</kbd><kbd>4</kbd> Capture Screenshot to Clipboard
+
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>control</kbd><kbd>4</kbd> then <kbd>space</kbd>. Then `click mouse` over application you want.
