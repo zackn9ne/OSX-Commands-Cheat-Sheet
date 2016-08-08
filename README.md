@@ -7,9 +7,23 @@ OSX Cheat Sheet
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>I</kbd> Go To Web Inspector _Google Chrome_
 
-<kbd>⌘</kbd>+<kbd>space</kbd>+<kbd>I</kbd> Go To Sublime Text _start typing Sublime Text_ <kbd>return</kbd>
+<kbd>⌘</kbd>+<kbd>space</kbd> Go To Sublime Text _start typing Sublime Text_ <kbd>return</kbd>
 
 ----
+
+Simple Linux Stuff
+
+`ls`
+
+`pwd`
+
+`cd dirname` Insert your own 
+
+`open .` Very important for learning purposes
+
+`subl filname` Open in Sublime Text
+
+
 
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>G</kbd> Go To Directory (GNU Linux-like paths OK)
