@@ -1,5 +1,5 @@
 # OSX-Commands-Cheat-Sheet
-OSX Cheat Sheet
+### OSX Cheat Sheet
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>H</kbd> Go To Home
 
@@ -11,7 +11,7 @@ OSX Cheat Sheet
 
 ----
 
-Simple Linux Stuff
+### Simple Linux Stuff
 
 `ls`
 
@@ -24,7 +24,7 @@ Simple Linux Stuff
 `subl filname` Open in Sublime Text
 
 ---
-
+### Bonus Stuff
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>G</kbd> Go To Directory (GNU Linux-like paths OK)
 
