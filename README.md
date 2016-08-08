@@ -8,6 +8,8 @@ OSX Cheat Sheet
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>I</kbd> Go To Web Inspector _Google Chrome_
 
 
+----
+
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>G</kbd> Go To Directory (GNU Linux-like paths OK)
 
