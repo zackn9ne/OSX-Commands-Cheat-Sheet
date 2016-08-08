@@ -1,6 +1,14 @@
 # OSX-Commands-Cheat-Sheet
 OSX Cheat Sheet
 
+<kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>H</kbd> Go To Home
+
+<kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>C</kbd> Go To Web Console _Google Chrome_
+
+<kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>I</kbd> Go To Web Inspector _Google Chrome_
+
+
+
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>G</kbd> Go To Directory (GNU Linux-like paths OK)
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>A</kbd> Go To Applications Folder
