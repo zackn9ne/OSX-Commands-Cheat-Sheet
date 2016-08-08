@@ -23,7 +23,7 @@ Simple Linux Stuff
 
 `subl filname` Open in Sublime Text
 
-
+---
 
 
 <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>G</kbd> Go To Directory (GNU Linux-like paths OK)
